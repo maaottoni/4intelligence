@@ -1,4 +1,3 @@
-# 4intelligence
 # Data Analysis Skill Test 4intelligence
 
 ### General guidelines
